@@ -1,12 +1,11 @@
-/**
- * Created with JetBrains WebStorm.
- * User: ze47zhk
- * Date: 19/8/16
- * Time: 10:44 AM
- * To change this template use File | Settings | File Templates.
- */
-
 export class Hero {
-    id: number;
-    name: string;
+  id: number;
+  name: string;
 }
+
+
+/*
+Copyright 2016 Google Inc. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at http://angular.io/license
+*/
