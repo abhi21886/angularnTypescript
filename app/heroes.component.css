@@ -58,6 +58,12 @@ button:hover {
   background-color: #cfd8dc;
 }
 
+.error {color:red;}
+button.delete-button{
+    float:right;
+    background-color: gray !important;
+    color:white;
+}
 
 /*
 Copyright 2016 Google Inc. All Rights Reserved.
